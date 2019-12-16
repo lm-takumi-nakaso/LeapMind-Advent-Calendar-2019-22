@@ -1,0 +1,3 @@
+[submodule "blueoil@0.16.0"]
+	path = blueoil@0.16.0
+	url = https://github.com/blue-oil/blueoil.git
